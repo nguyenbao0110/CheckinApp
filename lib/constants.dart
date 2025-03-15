@@ -1,0 +1,1 @@
+const apiUrl = 'https://c3b4-222-254-166-136.ngrok-free.app';
